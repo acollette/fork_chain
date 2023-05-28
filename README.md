@@ -4,11 +4,19 @@ This repo is complimentary to presentation Fork, Spoon and Spaghetti by zekiblue
 If you want testnet that is forked from mainnet without going into too much detail.
 You can create your own testnet by simply running clicking either of the buttons to deploy on GCP or Railway
 
+## GCP
+
 [![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/QoEJgQ)
+Google cloud will deploy testnet and give you endpoint.
 
-Google cloud will deploy testnet and give you endpoint. After that you can add your network to your metamask or your front end to interact with it.
+## Railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/n8Dy8E?referralCode=8PQn_5)
+
+After succesfull deployment. Go to `Settings` and scroll down `Domains` and `Generate Domain`or `Add custom domain` ( if you have domain already)
+
+--------------------
+After that you can add your network to your metamask or your front end to interact with it.
 
 [How to add development network to metamask](https://docs.metamask.io/wallet/get-started/run-development-network/)
 
