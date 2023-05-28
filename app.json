@@ -1,0 +1,12 @@
+{
+    "name": "fork-chain",
+    "options": {
+        "allow-unauthenticated": true,
+        "memory": "512Mi",
+        "cpu": "1",
+        "port": 8545,
+        "http2": false,
+        "concurrency": 80,
+        "max-instances": 10
+    }
+}
