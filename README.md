@@ -8,7 +8,7 @@ You can create your own testnet by simply running clicking either of the buttons
 
 [![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
 
-Google cloud will deploy testnet and give you endpoint.
+Google cloud will deploy testnet and give you endpoint. After selecting which project and which region, it will take couple minutes then it will give you the rpc url of your fork chain.
 
 ## Railway
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/n8Dy8E?referralCode=8PQn_5)
