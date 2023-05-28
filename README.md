@@ -19,6 +19,7 @@ Some of these values might be necessary when you add chain to your metamask
 
 - chain id: 31337
 - fork url: https://eth.llamarpc.com
+- fork block number: 17359852
 
 # Forking on your local
 
